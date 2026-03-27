@@ -1,3 +1,6 @@
+
+<img src=tdd.png" />
+
 # Homework - TDD Practice
 
 Solve this homework using **TDD – Test Driven Development**
